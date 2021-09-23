@@ -17,6 +17,14 @@ body {
 
 #navi article {
     width: 30%;
+    font-family: 'Grechen Fuemen', cursive;
+    font-size: 3em;
+    text-align: center;
+}
+
+#navi a {
+    text-decoration: none;
+    color: #B34E47;
 }
 
 nav {
@@ -38,11 +46,6 @@ nav li {
     width: 33%;
     border-bottom: 2px #B34E47 solid;
     text-align: center;
-}
-
-nav a {
-    text-decoration: none;
-    color: #B34E47;
 }
 
 nav a:visited {
